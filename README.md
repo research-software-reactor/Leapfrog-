@@ -1,7 +1,7 @@
 # Project Leapfrog
 
 ## Alignment with Reactor Sprint:
-“RSE’s background in both computing and academic research puts them in the unique position of being to be able to align the needs of the research community* with the services and resources provided by The Cloud.”
+“RSE’s background in both computing and academic research puts them in the unique position of being to be able to align the needs of the research community with the services and resources provided by The Cloud.”
 
 *Streams considered:* Data Management, Data Lifecycle
 
